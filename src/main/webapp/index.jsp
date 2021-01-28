@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello From smatbots webapplication </h2>
+<h2>Hello From smatbots webapplication autodeploy from jenkins pipeline </h2>
 </body>
 </html>
