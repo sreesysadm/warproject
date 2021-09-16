@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Hello cloudbots...from jenkins v2.0 using automatic trigger </h2>
+<h2> Hello cloudbots... v1.0 </h2>
 </body>
 </html>
