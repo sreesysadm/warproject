@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Hello cloudbots... v1.0 </h2>
+<h2> Hello cloudbots... using jenkins ... auto deploy on tomcat </h2>
 </body>
 </html>
