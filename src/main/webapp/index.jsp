@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Hello cloudbots... using jenkins v1.0 </h2>
+<h2> Hello cloudbots... using jenkins v2.0 with deploy to container plugin...auto deploy option...!! </h2>
 </body>
 </html>
