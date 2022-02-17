@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Hello cloudbots...using compilejob in jenkins...</h2>
+<h2> Hello cloudbots...using autodeploy option in Jenkins...</h2>
 </body>
 </html>
